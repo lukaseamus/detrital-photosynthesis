@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use these data, please cite as below."
+authors:
+  - family-names: Wright
+    given-names: Luka Seamus
+    orcid: https://orcid.org/0000-0002-1273-6256
+title: Detrital photosynthesis
+version: v1.0.0
+doi: 10.5281/zenodo.15054888
+date-released: 2025-03-20
+url: https://github.com/lukaseamus/detrital-photosynthesis
