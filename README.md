@@ -12,7 +12,7 @@ This dataset is a compilation of the repsonse of photosynthesis and chlorophyll 
 - `Mean` Observation or mean of observations
 - `SEM` Standard error of the mean
 - `N` Number of observations
-- `Response` Response variable with levels "Photosynthesis" and "Chlorophyll"
+- `Response` Response variable type with levels "Photosynthesis" and "Chlorophyll"
 - `Method` Measurement method
 - `Unit` Measurement unit that `Mean` and `SEM` are given in
 - `Source` Data source within study
