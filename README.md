@@ -1,2 +1,2 @@
-# detrital-photosynthesis
+# Detrital photosynthesis
 Detrital photosynthesis dataset
