@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15054888.svg)](https://doi.org/10.5281/zenodo.15054888)
 # Detrital photosynthesis dataset
 This dataset is a compilation of the repsonse of photosynthesis and chlorophyll to detachment in various plants. `Detrital_Photosynthesis.csv` contains all data and `References.pdf` gives a full bibliography of the cited studies. The data are structured into these variables:
 
